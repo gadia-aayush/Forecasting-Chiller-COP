@@ -49,8 +49,7 @@ The below format must be followed for the successful running of the script:
     - it must be passed in the third argument of sys.argv. 
     - it must be passed as JSON String.
 
-    - the inputs must be passed in a list, with the minimum frequency being the first argument of list & maximum frequency being the second argument of list.  
-    
+    - the inputs must be passed in a list, with the minimum frequency being the first argument of list & maximum frequency being the second argument of list.      
       ***NOTE :: Minimum Value then Maximum Value. DO FOLLOW THIS ORDER.***  
       
     - **the JSON String, alternatively the dictionary data structure should have the following Key Names::**  
