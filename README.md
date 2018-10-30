@@ -63,7 +63,7 @@ The below format must be followed for the successful running of the script:
 4. **Output String ::**  
     - it is passed as a JSON String.  
     - here the Keys represent the Class and the Values of the Keys represents the Quadratic Coefficients viz unique for that particular class.    
-    - Quadratic Coefficients viz in the list [a,b,c] are in the same order of (a, b ,c ) of (ax2 + bx + c).  
+    - **Quadratic Coefficients viz in the list [a,b,c] are in the same order of (a, b ,c ) of (ax2 + bx + c).**  
 
 -------------------------------------------------------------------------------------------------------------------	
 
